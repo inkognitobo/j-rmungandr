@@ -1,6 +1,6 @@
 # jörmungandr
 
-In Norse mythology, Jörmungandr (Old Norse: Jǫrmungandr, lit. "the Vast 'gand'" [...]), also known as the Midgard Serpent or World Serpent (Old Norse: Miðgarðsormr), 
+In Norse mythology, Jörmungandr (_Old Norse: Jǫrmungandr, lit. "the Vast 'gand'" [...]_), also known as the Midgard Serpent or World Serpent (_Old Norse: Miðgarðsormr_), 
 is an unfathomably large sea serpent or worm who dwells in the world sea, encircling the Earth (Midgard) and biting his own tail, an example of an ouroboros
 ([1](https://en.wikipedia.org/wiki/J%C3%B6rmungandr)).
 
@@ -8,7 +8,7 @@ What a fantastic name for a completely original, a giant serpent involving game 
 
 **Features:**
 
-- no score.
+- no scores and definitely no scoreboards.
 - no music / sound effects.
 - crashes on game-over.
 - snek.
